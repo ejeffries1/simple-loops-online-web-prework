@@ -13,7 +13,6 @@ if number_of_times >= 7
   #   correct number of times?
   # Maybe we should keep count of the number of times we've puts out the 
   #  phrase and break when the counter hits the appropriate number...
-end
   phrase = "Welcome to Flatiron School's Web Development Course!"
 end
 
