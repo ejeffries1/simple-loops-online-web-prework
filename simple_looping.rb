@@ -6,6 +6,7 @@ def loop_iterator(number_of_times)
     puts "#{phrase}"
     if number_of_times >= 7
     break
+  end
   # Code your solution here using the "loop" keyword to puts out the below phrase
   # This and all the other methods take an argument of an integer 
   # The integer is the number of times the loops should puts out the phrase
@@ -14,7 +15,6 @@ def loop_iterator(number_of_times)
   # Maybe we should keep count of the number of times we've puts out the 
   #  phrase and break when the counter hits the appropriate number...
   phrase = "Welcome to Flatiron School's Web Development Course!"
-end
 end
 
 def times_iterator(number_of_times)
