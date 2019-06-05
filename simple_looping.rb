@@ -12,6 +12,7 @@ end
 
 def times_iterator(number_of_times)
   # code your solution here using the "times" keyword
+  number_of_times = 0
   phrase = "Welcome to Flatiron School's Web Development Course!"
 end
 
