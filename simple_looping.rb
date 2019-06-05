@@ -3,7 +3,7 @@ def loop_iterator(number_of_times)
   loop do
    number_of_times = 0
    number_of_times <= 7
-   puts "#{phrase}"
+   puts #{phrase}
    break
   # Code your solution here using the "loop" keyword to puts out the below phrase
   # This and all the other methods take an argument of an integer 
