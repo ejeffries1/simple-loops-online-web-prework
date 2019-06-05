@@ -20,7 +20,6 @@ def times_iterator(number_of_times)
   number_of_times = 7.times do
     puts {phrase}
   # code your solution here using the "times" keyword
-end
   phrase = "Welcome to Flatiron School's Web Development Course!"
 end
 
@@ -39,7 +38,6 @@ def until_iterator(number_of_times)
   puts phrase
   number_of_times += 1
   # hint: use a counter to tell the until loop when to stop!
-end
   phrase = "Welcome to Flatiron School's Web Development Course!"
 end
 
@@ -49,7 +47,6 @@ def for_iterator(number_of_times)
   puts phrase
   # code your solution here using the "for" keyword
   # remember that `for` requires a range of numbers. How can we turn our number into a range?
-end
   phrase = "Welcome to Flatiron School's Web Development Course!"
 end
 
