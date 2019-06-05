@@ -1,12 +1,7 @@
 # REMEMBER: print your output to the terminal using 'puts'
 def loop_iterator(number_of_times)
-  number_of_times = 0
   loop do
-    number_of_times += 1
-    puts #{phrase}
-    if number_of_times >= 4
-    break
-    puts phrase
+   
   end
   # Code your solution here using the "loop" keyword to puts out the below phrase
   # This and all the other methods take an argument of an integer 
