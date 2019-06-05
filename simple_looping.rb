@@ -4,7 +4,7 @@ def loop_iterator(number_of_times)
   loop do
     number_of_times += 1
 puts {phrase}
-if number_of_times <= 7
+if number_of_times >= 7
   break
   # Code your solution here using the "loop" keyword to puts out the below phrase
   # This and all the other methods take an argument of an integer 
@@ -19,7 +19,7 @@ end
 
 def times_iterator(number_of_times)
   number_of_times = 7.times do
-    puts #{phrase}
+    puts {phrase}
   # code your solution here using the "times" keyword
   phrase = "Welcome to Flatiron School's Web Development Course!"
 end
