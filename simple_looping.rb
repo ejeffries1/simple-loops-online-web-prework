@@ -11,7 +11,7 @@ def loop_iterator(number_of_times)
   number_of_times = 0
   loop do
       puts "#{phrase}"
-      until number_of_times <= 7
+      until number_of_times >= 7
   end
 end
 
