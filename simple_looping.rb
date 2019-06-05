@@ -12,7 +12,7 @@ def loop_iterator(number_of_times)
   loop do
     if number_of_times >= 7
       puts "#{phrase}"
-      number_of_times += 4
+      number_of_times += 1
   end
 end
 
