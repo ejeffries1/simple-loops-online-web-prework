@@ -12,7 +12,7 @@ def loop_iterator(number_of_times)
   loop do
     number_of_times += 1
     puts "#{phrase}"
-    number_of_times >= 7
+    number_of_times >= 8
     break
   end
 end
