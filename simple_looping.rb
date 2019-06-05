@@ -15,7 +15,6 @@ def times_iterator(number_of_times)
   number_of_times = 0
   7.times do
     puts "#{phrase}"
-    number_of_times = number_of_times - 1
   end
   phrase = "Welcome to Flatiron School's Web Development Course!"
 end
