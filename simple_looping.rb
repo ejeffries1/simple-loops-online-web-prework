@@ -11,7 +11,7 @@ def loop_iterator(number_of_times)
   number_of_times = 7
   loop do
       puts "#{phrase}"
-      number_of_times -=1
+      
   end
 end
 
