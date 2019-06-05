@@ -24,7 +24,8 @@ def while_iterator(number_of_times)
   while
   number_of_times < 7
   puts "#{phrase}"
-  number_of_times
+  number_of_times += 1
+end
 end
 
 def until_iterator(number_of_times)
