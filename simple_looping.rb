@@ -12,7 +12,6 @@ def loop_iterator(number_of_times)
   loop do
       puts "#{phrase}"
       until number_of_times <= 7
-      break
   end
 end
 
